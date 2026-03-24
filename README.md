@@ -1,11 +1,14 @@
 ## Hi there 👋
+I’m KuoHao and I’m an independent computational scientist. 🔬  
 
-Hi, I’m KuoHao and I’m an independent computational scientist. 🔬  
+I have extensive research experience, with a focus on cheminformatics, molecular modeling, and molecular dynamics simulations. 💻✨ 
 
-I have extensive research experience, with a focus on cheminformatics, molecular modeling, and molecular dynamics simulations. 💻✨ You can view my most recent resume [here](Kuohao_resume_2026v3.pdf).
+You can view my most recent resume [here](Kuohao_resume_2026v3.pdf).
 
-I care deeply about open science, reproducible workflows, inclusive digital communities, and bridging machine learning with drug discovery. 🌍💡
+I’m passionate about open science, reproducible workflows, inclusive digital communities, and bridging machine learning with drug discovery. 🌍💡  
 
+I’ve started organizing my notes and sharing selected notebooks on specific topics.  
+- [demo: docking](https://brucekhlee.github.io/demo_docking/docking.html)
 
 
 <!--
