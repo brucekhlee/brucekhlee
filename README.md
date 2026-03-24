@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Hi, I’m KuoHao and I’m an independent computational scientist. 🔬  
+
+I have extensive research experience, with a focus on cheminformatics, molecular modeling, and molecular dynamics simulations. 💻✨ You can view my most recent resume [here](Kuohao_resume_2026v3.pdf).
+
+I care deeply about open science, reproducible workflows, inclusive digital communities, and bridging machine learning with drug discovery. 🌍💡
+
+
+
 <!--
 **brucekhlee/brucekhlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
