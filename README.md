@@ -3,7 +3,7 @@ I’m KuoHao and I’m an independent computational scientist. 🔬
 
 I have extensive research experience, with a focus on cheminformatics, molecular modeling, and molecular dynamics simulations. 💻✨ 
 
-You can view my most recent resume [here](Kuohao_resume_2026v3.pdf).
+You can view my most recent [resume](Kuohao_resume_2026v3.pdf). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/kuohao-lee-5778362a/).
 
 I’m passionate about open science, reproducible workflows, inclusive digital communities, and bridging machine learning with drug discovery. 🌍💡  
 
