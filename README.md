@@ -11,7 +11,7 @@ I’ve started organizing my notes and sharing selected notebooks on specific to
 
 
 
-## Previous Work
+## previous work
 ### ligand-based approaches
 - Machine learning-based QSAR modeling for [DAT-hERG](https://github.com/NIDA-IRP-CCMB/QSAR_DAT-hERG/tree/master/QSAR_DAT-hERG)<br>
 The results are published in JCIM: '[Toward Reducing hERG Affinities for DAT Inhibitors with a Combined Machine Learning and Molecular Modeling Approach](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00856)'. In the [DAT-hERG](https://github.com/NIDA-IRP-CCMB/QSAR_DAT-hERG/tree/master/QSAR_DAT-hERG) repository, our initial instructions were built here, and now we have expanded its functionality further. These additions are not in the public domain.
